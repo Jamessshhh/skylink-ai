@@ -7,7 +7,7 @@
 
 **SkyLink AI** is a full-stack travel technology platform that combines **Graph Theory**, **Machine Learning**, and **Generative AI** to solve complex flight routing problems. Unlike standard search engines, it visualizes the underlying graph network, estimates costs using regression models, and provides an AI travel consultant for destination advice.
 
-🔗 **[Live Demo](https://skylink-ai.streamlit.app)**
+🔗 **[Live Demo]([https://skylink-ai.streamlit.app](https://skylink-ai-mlig9fjrd4tx5jihgaceb8.streamlit.app))**
 
 ---
 
@@ -64,3 +64,4 @@ AI-FLIGHT-ROUTE-OPTIMIZATION/
 │   └── utils.py         # Data loading, cleaning & NLP parsing
 ├── app.py               # Main Streamlit Application Entry Point
 └── requirements.txt     # Project Dependencies
+
