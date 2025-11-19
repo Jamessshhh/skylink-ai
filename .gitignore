@@ -1,0 +1,13 @@
+# Ignore Virtual Environment
+venv/
+
+# Ignore Secrets and API Keys
+.env
+.streamlit/secrets.toml
+
+# Ignore Generated Models (Cloud will retrain them)
+models/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
