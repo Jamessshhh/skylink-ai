@@ -1,13 +1,13 @@
 # 🌍 SkyLink AI: Intelligent Flight Route Optimizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skylink-ai.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skylink-ai-mlig9fjrd4tx5jihgaceb8.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![AI](https://img.shields.io/badge/AI-Llama%203-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 **SkyLink AI** is a full-stack travel technology platform that combines **Graph Theory**, **Machine Learning**, and **Generative AI** to solve complex flight routing problems. Unlike standard search engines, it visualizes the underlying graph network, estimates costs using regression models, and provides an AI travel consultant for destination advice.
 
-🔗 **[Live Demo]([https://skylink-ai.streamlit.app](https://skylink-ai-mlig9fjrd4tx5jihgaceb8.streamlit.app))**
+🔗 **[Live Demo](https://skylink-ai-mlig9fjrd4tx5jihgaceb8.streamlit.app/)**
 
 ---
 
@@ -64,4 +64,3 @@ AI-FLIGHT-ROUTE-OPTIMIZATION/
 │   └── utils.py         # Data loading, cleaning & NLP parsing
 ├── app.py               # Main Streamlit Application Entry Point
 └── requirements.txt     # Project Dependencies
-
